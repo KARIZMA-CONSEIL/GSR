@@ -2,3 +2,8 @@
 	path = karizmaconseil/kzm_hr
 	url = git@github.com:karizmaconseil/kzm_hr.git
 	branch = 13.0
+
+[submodule "OCA/server-ux"]
+	path = OCA/server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 13.0
