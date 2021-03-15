@@ -1,0 +1,4 @@
+[submodule "karizmaconseil/kzm_hr"]
+	path = karizmaconseil/kzm_hr
+	url = git@github.com:karizmaconseil/kzm_hr.git
+	branch = 13.0
